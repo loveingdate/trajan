@@ -10,6 +10,8 @@
 - 访问 `https://[你的域名]/link` 并用你的明文密码替换 `ca110us`
 
 
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 <details>
 <summary>V2rayN(Xray、V2ray)</summary>
 
